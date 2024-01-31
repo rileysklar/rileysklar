@@ -17,6 +17,7 @@ Check out my portfolio 🔗 https://rileysklar.io
 
 ![JavaScript](icons/js.svg) JavaScript
 ![React](icons/react.svg) React
+![React](icons/react.svg) React native
 ![HTML5](icons/html5.svg) HTML5
 ![CSS3](icons/css3.svg) CSS3
 ![Vue Icon](icons/vue.svg) Vue.js
