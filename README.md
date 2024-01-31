@@ -24,8 +24,6 @@ Check out my portfolio 🔗 https://rileysklar.io
 
 ### Languages I speak:
 
-### Languages I speak:
-
 <table>
   <tr>
     <td><img src="icons/js.svg" alt="JavaScript" width="30" height="30"/> JavaScript</td>
