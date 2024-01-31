@@ -41,7 +41,7 @@ Check out my portfolio 🔗 https://rileysklar.io
   </tr>
   <tr>
     <td><img src="icons/php.svg" alt="PHP" width="30" height="30"/> PHP</td>
-    <td><img src="icons/liquid.svg" alt="Liquid" width="30" height="30"/> Liquid</td>
+    <td><img src="icons/liquid.svg" alt="Shopify Liquid" width="30" height="30"/> Liquid</td>
   </tr>
   <tr>
     <td><img src="icons/typescript.svg" alt="TypeScript" width="30" height="30"/> TypeScript</td>
