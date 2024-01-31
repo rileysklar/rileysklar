@@ -13,14 +13,14 @@ Check out my portfolio 🔗 https://rileysklar.io
 
 ## My technologies
 
-### Languages I speak:
+<!-- ### Languages I speak:
 
 ![JavaScript](icons/js.svg) JavaScript
 ![React](icons/react.svg) React
 ![React](icons/react.svg) React Native
 ![HTML5](icons/html5.svg) HTML5
 ![CSS3](icons/css3.svg) CSS3
-![Vue Icon](icons/vue.svg) Vue.js
+![Vue Icon](icons/vue.svg) Vue.js -->
 
 ### Languages I speak:
 
