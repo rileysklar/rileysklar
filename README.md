@@ -1,4 +1,4 @@
-# 👋 Hello Earth! I'm Riley!
+# 👋 Hi! I'm Riley!
 
 ## About me
 
