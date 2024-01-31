@@ -19,7 +19,7 @@ Check out my portfolio 🔗 https://rileysklar.io
 ![React](icons/react.svg) React
 ![HTML5](icons/html5.svg) HTML5
 ![CSS3](icons/css3.svg) CSS3
-![Bootstrap Icon](icons/bootstrap.svg) Bootstrap
+![Vue Icon](icons/vue.svg) Vue.js
 
 ## Some stats
 
