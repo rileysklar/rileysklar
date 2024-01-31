@@ -24,14 +24,38 @@ Check out my portfolio 🔗 https://rileysklar.io
 
 ### Languages I speak:
 
-<p>
+### Languages I speak:
+
+<table>
+  <tr>
+    <td><img src="icons/js.svg" alt="JavaScript" width="30" height="30"/> JavaScript</td>
+    <td><img src="icons/react.svg" alt="React" width="30" height="30"/> React</td>
+  </tr>
+  <tr>
+    <td><img src="icons/react.svg" alt="React Native" width="30" height="30"/> React Native</td>
+    <td><img src="icons/html5.svg" alt="HTML5" width="30" height="30"/> HTML5</td>
+  </tr>
+  <tr>
+    <td><img src="icons/css3.svg" alt="CSS3" width="30" height="30"/> CSS3</td>
+    <td><img src="icons/vue.svg" alt="Vue Icon" width="30" height="30"/> Vue.js</td>
+  </tr>
+  <tr>
+    <td><img src="icons/php.svg" alt="PHP" width="30" height="30"/> PHP</td>
+    <td><img src="icons/liquid.svg" alt="Liquid" width="30" height="30"/> Liquid</td>
+  </tr>
+  <tr>
+    <td><img src="icons/typescript.svg" alt="TypeScript" width="30" height="30"/> TypeScript</td>
+    
+  </tr>
+</table>
+<!-- <p>
   <img src="icons/js.svg" alt="JavaScript" width="30" height="30"/> JavaScript<br>
   <img src="icons/react.svg" alt="React" width="30" height="30"/> React<br>
   <img src="icons/react.svg" alt="React Native" width="30" height="30"/> React Native<br>
   <img src="icons/html5.svg" alt="HTML5" width="30" height="30"/> HTML5<br>
   <img src="icons/css3.svg" alt="CSS3" width="30" height="30"/> CSS3<br>
   <img src="icons/vue.svg" alt="Vue Icon" width="30" height="30"/> Vue.js
-</p>
+</p> -->
 
 ## Some stats
 
