@@ -17,10 +17,21 @@ Check out my portfolio 🔗 https://rileysklar.io
 
 ![JavaScript](icons/js.svg) JavaScript
 ![React](icons/react.svg) React
-![React](icons/react.svg) React native
+![React](icons/react.svg) React Native
 ![HTML5](icons/html5.svg) HTML5
 ![CSS3](icons/css3.svg) CSS3
 ![Vue Icon](icons/vue.svg) Vue.js
+
+### Languages I speak:
+
+<p>
+  <img src="icons/js.svg" alt="JavaScript" width="30" height="30"/> JavaScript<br>
+  <img src="icons/react.svg" alt="React" width="30" height="30"/> React<br>
+  <img src="icons/react.svg" alt="React Native" width="30" height="30"/> React Native<br>
+  <img src="icons/html5.svg" alt="HTML5" width="30" height="30"/> HTML5<br>
+  <img src="icons/css3.svg" alt="CSS3" width="30" height="30"/> CSS3<br>
+  <img src="icons/vue.svg" alt="Vue Icon" width="30" height="30"/> Vue.js
+</p>
 
 ## Some stats
 
