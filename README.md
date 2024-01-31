@@ -1,4 +1,4 @@
-# Hello! 👋 I'm Riley!
+# 👋 Hello Earth! I'm Riley!
 
 ## About me
 
@@ -24,7 +24,3 @@ Check out my portfolio 🔗 https://rileysklar.io
 ## Some stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rileysklar&layout=compact&theme=dark&bg_color=22272e&title_color=ffffff&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
-
-## Some projects I recently worked on
-
-👇🏻 👇🏻 👇🏻
