@@ -28,23 +28,21 @@ Check out my portfolio 🔗 https://rileysklar.io
   <tr>
     <td><img src="icons/js.svg" alt="JavaScript" width="30" height="30"/> JavaScript</td>
     <td><img src="icons/react.svg" alt="React" width="30" height="30"/> React</td>
-  </tr>
-  <tr>
     <td><img src="icons/node.svg" alt="Node.js" width="30" height="30"/> Node.js</td>
-    <td><img src="icons/html5.svg" alt="HTML5" width="30" height="30"/> HTML5</td>
-  </tr>
   <tr>
     <td><img src="icons/css3.svg" alt="CSS3" width="30" height="30"/> CSS3</td>
+    <td><img src="icons/html5.svg" alt="HTML5" width="30" height="30"/> HTML5</td>
     <td><img src="icons/vue.svg" alt="Vue Icon" width="30" height="30"/> Vue.js</td>
   </tr>
-  <tr>
+   <tr>
     <td><img src="icons/php.svg" alt="PHP" width="30" height="30"/> PHP</td>
     <td><img src="icons/liquid.svg" alt="Shopify Liquid" width="30" height="30"/> Liquid</td>
+    <td><img src="icons/typescript.svg" alt="TypeScript" width="30" height="30"/> TypeScript</td>
   </tr>
-  <tr>
+  <!-- <tr>
     <td><img src="icons/typescript.svg" alt="TypeScript" width="30" height="30"/> TypeScript</td>
     <td><img src="icons/react.svg" alt="React Native" width="30" height="30"/> React Native</td>
-  </tr>
+  </tr> -->
 </table>
 <!-- <p>
   <img src="icons/js.svg" alt="JavaScript" width="30" height="30"/> JavaScript<br>
