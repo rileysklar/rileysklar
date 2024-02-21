@@ -22,7 +22,7 @@ Check out my portfolio 🔗 https://rileysklar.io
 ![CSS3](icons/css3.svg) CSS3
 ![Vue Icon](icons/vue.svg) Vue.js -->
 
-### Tech Stack:
+### Tech Stack
 
 <table>
   <tr>
