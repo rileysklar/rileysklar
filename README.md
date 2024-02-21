@@ -22,7 +22,7 @@ Check out my portfolio 🔗 https://rileysklar.io
 ![CSS3](icons/css3.svg) CSS3
 ![Vue Icon](icons/vue.svg) Vue.js -->
 
-### Languages I speak:
+### Tech Stack:
 
 <table>
   <tr>
@@ -30,7 +30,7 @@ Check out my portfolio 🔗 https://rileysklar.io
     <td><img src="icons/react.svg" alt="React" width="30" height="30"/> React</td>
   </tr>
   <tr>
-    <td><img src="icons/react.svg" alt="React Native" width="30" height="30"/> React Native</td>
+    <td><img src="icons/node.svg" alt="Node.js" width="30" height="30"/> Node.js</td>
     <td><img src="icons/html5.svg" alt="HTML5" width="30" height="30"/> HTML5</td>
   </tr>
   <tr>
@@ -43,7 +43,7 @@ Check out my portfolio 🔗 https://rileysklar.io
   </tr>
   <tr>
     <td><img src="icons/typescript.svg" alt="TypeScript" width="30" height="30"/> TypeScript</td>
-    
+    <td><img src="icons/react.svg" alt="React Native" width="30" height="30"/> React Native</td>
   </tr>
 </table>
 <!-- <p>
