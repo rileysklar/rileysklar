@@ -11,8 +11,6 @@ I’m on a mission to optimize the design to development workflow. Let’s colla
 
 Check out my portfolio 🔗 https://rileysklar.io
 
-## My technologies
-
 <!-- ### Languages I speak:
 
 ![JavaScript](icons/js.svg) JavaScript
