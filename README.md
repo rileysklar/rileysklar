@@ -5,7 +5,7 @@
 I’m an innovative Software Developer from Austin, TX with a proficiency in UI/UX Design.
 
 I manage a team of designers and developers to prototype, design, and develop integrated web
-applications for a variety of clients including Fortune 500 companies, multi-billion dollar lighting manufacturers, and state government agencies. Using tools such as JavasScript, Tailwind CSS, React, React Native, Astro, Vue.js, jQuery, Supabase, WP Engine, AWS, GitHub, WordPress and Figma, my team and I have a knack for creating exceptional online and mobile app experiences.
+applications for a variety of clients including Fortune 500 companies, multi-million dollar lighting manufacturers, and state government agencies. Using tools such as JavasScript, Tailwind CSS, React, React Native, Astro, Vue.js, jQuery, Supabase, WP Engine, AWS, GitHub, WordPress and Figma, my team and I have a knack for creating exceptional online and mobile app experiences.
 
 I’m on a mission to optimize the design to development workflow. Let’s collaborate and craft digital wonders that leave a lasting impression! 🚀💻
 
