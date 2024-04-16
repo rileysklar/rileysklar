@@ -1,12 +1,12 @@
-Lead Front End Developer & UI Designer at ShakeWell Creative
+# Hello, World! I'm Riley! 👋
 
-## Lead Front End Developer & UI Designer at ShakeWell Creative
+## Who Am I?
 
-In my role, I'm not just a developer - I'm a problem solver, a designer, and a communicator.
+I'm the Lead Front End Developer & UI Designer at ShakeWell Creative. In my role, I'm not just a developer - I'm a problem solver, a designer, and a communicator.
 
 ## What I Do
 
-As a client-facing front end developer at a small agency, I architect and develop a wide-range of web applications from scoping to delivery, with keen attention to detail.
+I architect and develop a wide range of web applications, from the initial scoping phase all the way through to delivery. My focus is always on the details - ensuring that every pixel is in its right place, and every line of code is as efficient as it can be.
 
 ## My Philosophy
 
@@ -14,7 +14,7 @@ I believe in a growth mindset. The tech industry is always evolving, and so am I
 
 ## My Mission
 
-I’m on a mission to optimize the design to development workflow. Let’s collaborate and craft digital wonders that leave a lasting impression! 🚀💻
+I'm on a mission to optimize the design to development workflow. I strive to create a seamless process that allows for the efficient and effective creation of beautiful, functional web applications.
 
 Check out my portfolio 🔗 https://rileysklar.io
 
