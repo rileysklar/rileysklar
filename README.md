@@ -14,7 +14,7 @@ I believe in a growth mindset. The tech industry is always evolving, and so am I
 
 I'm on a mission to optimize the design to development workflow. I strive to create a seamless process that allows for the efficient and effective creation of beautiful, functional web applications.
 
-[Check out my portfolio 🔗] (https://rileysklar.io)
+[Check out my portfolio 🔗](https://rileysklar.io)
 
 ### Tech Stack
 
