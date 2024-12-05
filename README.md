@@ -1,10 +1,12 @@
 # Hello, World! I'm Riley! 👋
 
-I'm the Lead Front End Developer & UI Designer at ShakeWell Creative. In my role, I'm not just a developer - I'm a problem solver, a designer, and a communicator.
+As a cross-functional Front-End Development and UI Design Team Leader with over 12 years of professional experience, I specialize in designing, architecting, developing, and deploying diverse user interfaces and web applications at enterprise scale. 
 
-## What I Do
+I lead a team of web developers and designers at DISCO, a SaaS company specializing in AI-driven legal discovery technology. With a meticulous attention to detail and a commitment to user-centric design, I am always on a quest for growth, eager to embrace new technologies and solve real-world business problems. 
 
-I architect and develop a wide range of web applications, from the initial scoping phase all the way through to deployment. My focus is always on the details - ensuring that every pixel is in its right place, and every line of code is as efficient as it can be.
+Formerly, I have worked with Apple and various agencies, delivering integrated web applications used globally by thousands of users, including Fortune 500 companies, multi-million dollar manufacturers, and state government agencies.
+
+Let's connect and to design and develop applications that make the world a better place 🚀
 
 ## My Philosophy
 
