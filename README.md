@@ -1,6 +1,8 @@
 
 I lead and manage web development teams delivering enterprise SaaS applications at scale. My focus is on building resilient, future-forward products that combine **clean design systems, cutting-edge frameworks, and AI-driven intelligence**.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rileysklar&layout=compact&theme=dark&bg_color=22272e&title_color=ffffff&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 ## 🚀 Core Technologies
