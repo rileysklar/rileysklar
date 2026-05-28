@@ -16,4 +16,4 @@ Astro, Next.js, React, TypeScript, Tailwind. Headless WordPress for content. Ant
 
 - [rileysklar.io](https://rileysklar.io) — case studies and the occasional blog post
 - [LinkedIn](https://linkedin.com/in/rileysklar)
-- [Swip Tools](https://swip.tools)
+- [Swip Tools](https://swiptools.com)
