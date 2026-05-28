@@ -1,6 +1,6 @@
 ### Hi, I'm Riley.
 
-I lead the web team at [DISCO](https://csdisco.com) (Manager, Web Development & Design) and cofounded [Swip Tools](https://swip.tools) on the side. Based in Austin, TX.
+I lead the web team at [DISCO](https://csdisco.com) and cofounded [Swip Tools](https://swip.tools). Based in Austin, TX.
 
 Day-to-day I'm:
 
@@ -10,7 +10,7 @@ Day-to-day I'm:
 
 ### Mostly working with
 
-Astro, Next.js, React, TypeScript, Tailwind. Headless WordPress for content. Anthropic + OpenAI SDKs, Pinecone, and the [Model Context Protocol](https://modelcontextprotocol.io) for the agent-side stuff. Figma for design.
+Astro, Next.js, React, TypeScript, Tailwind. Headless WordPress for content. Anthropic + OpenAI SDKs, Pinecone, and the [Model Context Protocol](https://modelcontextprotocol.io) for the agent-side stuff.
 
 ### Around the web
 
