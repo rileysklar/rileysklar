@@ -10,7 +10,7 @@ Day-to-day I'm:
 
 ### Mostly working with
 
-Astro, Next.js, React, TypeScript, Tailwind. Headless WordPress for content. Anthropic + OpenAI SDKs, Pinecone, and the [Model Context Protocol](https://modelcontextprotocol.io) for the agent-side stuff.
+Astro, Next.js, React, TypeScript, Tailwind. Headless WordPress for content. Anthropic + OpenAI SDKs, Pinecone, and MCP for the agent-side stuff.
 
 ### Around the web
 
